@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ip_portrait id="1" object_id="1" aspect_id="1" attribute_id="1" norm_id="1" creator_id="1" comment="comment text" ids_list="1, 2, 6" date_add="22-04-2020 19:30:51" req_from="22-04-2020 19:30:51" req_till="22-04-2020 19:30:51" source_text="some text" words="1" abbreviations="ААА БББ ВВВ ГГГ" shingles="1">
+    <ip_term id="1" ip_id="1" term="word" weight="0.31243214" occurences="0.2143" times="2132"/>
+    <ip_term id="2" ip_id="1" term="word" weight="0.31243214" occurences="0.2143" times="2132"/>
+    <ip_term id="3" ip_id="1" term="word" weight="0.31243214" occurences="0.2143" times="2132"/>
+    <ip_term id="4" ip_id="1" term="word" weight="0.31243214" occurences="0.2143" times="2132"/>
+    <ip_term id="5" ip_id="1" term="word" weight="0.31243214" occurences="0.2143" times="2132"/> 
+	<ip_term_shingles id="1" ip_id="1" term="word shingle" weight="0.2365" occurences="0.214156" times="21" size="2" shows="1"/>
+	<ip_term_shingles id="2" ip_id="1" term="word shingle" weight="0.2365" occurences="0.214156" times="21" size="2" shows="1"/>
+	<ip_term_shingles id="3" ip_id="1" term="word shingle" weight="0.2365" occurences="0.214156" times="21" size="2" shows="1"/>
+	<ip_term_shingles id="4" ip_id="1" term="word shingle" weight="0.2365" occurences="0.214156" times="21" size="2" shows="1"/>
+	<ip_term_shingles id="5" ip_id="1" term="word shingle" weight="0.2365" occurences="0.214156" times="21" size="2" shows="1"/>
+</ip_portrait>
